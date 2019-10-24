@@ -14,6 +14,7 @@
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		168C34223DDB10FC626A2511 /* libPods-react_native_mealsTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A456E12DC541BB400925610E /* libPods-react_native_mealsTests.a */; };
+		187280D6236083C900FE9332 /* OpenSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 187280D5236083BE00FE9332 /* OpenSans-Regular.ttf */; };
 		272DD061F1279DFDD5B10B4E /* libPods-react_native_meals.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 540C48885E5B33767AEB6E34 /* libPods-react_native_meals.a */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
@@ -53,6 +54,7 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = react_native_meals/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = react_native_meals/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = react_native_meals/main.m; sourceTree = "<group>"; };
+		187280D5236083BE00FE9332 /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "OpenSans-Regular.ttf"; path = "../src/assets/fonts/OpenSans-Regular.ttf"; sourceTree = "<group>"; };
 		27F9B5ADEFB7A2FDE4E8508B /* Pods-react_native_mealsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-react_native_mealsTests.release.xcconfig"; path = "Target Support Files/Pods-react_native_mealsTests/Pods-react_native_mealsTests.release.xcconfig"; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* react_native_meals-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "react_native_meals-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* react_native_meals-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "react_native_meals-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -159,6 +161,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				187280D5236083BE00FE9332 /* OpenSans-Regular.ttf */,
 				13B07FAE1A68108700A75B9A /* react_native_meals */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* react_native_mealsTests */,
@@ -194,7 +197,6 @@
 				6E51341BC18841458F4F6BBF /* Pods-react_native_mealsTests.debug.xcconfig */,
 				27F9B5ADEFB7A2FDE4E8508B /* Pods-react_native_mealsTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -308,6 +310,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -336,6 +339,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				187280D6236083C900FE9332 /* OpenSans-Regular.ttf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
 			);

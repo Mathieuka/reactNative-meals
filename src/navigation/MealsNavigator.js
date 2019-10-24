@@ -5,6 +5,9 @@ import CategoriesScreen from '../screens/CategoriesScreen';
 import CategoryMealsScreen from '../screens/CategoryMealsScreen';
 import MealDetailScreen from '../screens/MealDetailScreen';
 
+import {Platform} from 'react-native';
+import THEME from '../Style/styles';
+
 const AppNavigator = createStackNavigator(
   {
     Categories: CategoriesScreen,
@@ -15,6 +18,13 @@ const AppNavigator = createStackNavigator(
   },
   {
     initialRouteName: 'Categories',
+    defaultNavigationOptions: {
+      mode: 'modal', // Handle the screen transition
+      headerStyle: {
+        backgroundColor: Platform.OS === 'android' ? THEME.COLOR.primary : '',
+      },
+      headerTintColor: THEME.COLOR.accentColor,
+    },
   },
 );
 

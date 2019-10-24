@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react';
-import {View, Text, StyleSheet, Button, Platform} from 'react-native';
+import {View, Text, StyleSheet, Button} from 'react-native';
 import {CATEGORIES} from '../data/dummy-data';
 import THEME from '../Style/styles';
 
@@ -13,7 +13,7 @@ const getNavigationParams = (data, paramName) => {
 const CategoryMealsScreen = props => {
   const categoryId = getNavigationParams(props, 'categoryId');
   const category = selectCategoryId(CATEGORIES, categoryId);
-
+  console.log('CategoryMealsScreen rendered');
   return (
     <View style={styles.screen}>
       <Text>The CategoryMealsScreen Screen!</Text>
@@ -28,19 +28,10 @@ const CategoryMealsScreen = props => {
 
 //handle dynamically the header title of the view
 CategoryMealsScreen.navigationOptions = navigationData => {
-  console.log(
-    '%cLOG => ',
-    'font-size:15px; color: #0015ff',
-    'CategoryMealsScreen FUNCTION',
-  );
   const categoryId = getNavigationParams(navigationData, 'categoryId');
   const category = selectCategoryId(CATEGORIES, categoryId);
   return {
     headerTitle: category.title,
-    headerStyle: {
-      backgroundColor: Platform.OS === 'android' ? THEME.COLOR.primary : '',
-    },
-    headerTintColor: THEME.COLOR.accentColor,
   };
 };
 

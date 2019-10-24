@@ -1,0 +1,451 @@
+
+> react_native_meals@0.0.1 start /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals
+> react-native start reset-cache "--reset-cache" "$"
+
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│  Running Metro Bundler on port 8081.                                         │
+│                                                                              │
+│  Keep Metro running while developing on any JS projects. Feel free to        │
+│  close this tab and run your own Metro instance if you prefer.               │
+│                                                                              │
+│  https://github.com/facebook/react-native                                    │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+Looking for JS files in
+   /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals 
+
+warning: the transform cache was reset.
+Loading dependency graph, done.
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (563/563), done.
+
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  Running "react_native_meals" with {"rootTag":11,"initialProps":{}}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  CategoryMealsScreen rendered
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  Running "react_native_meals" with {"rootTag":11,"initialProps":{}}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  Running "react_native_meals" with {"rootTag":21,"initialProps":{}}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  Running "react_native_meals" with {"rootTag":31,"initialProps":{}}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  Running "react_native_meals" with {"rootTag":41,"initialProps":{}}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":41,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":41,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":41,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":41,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":41,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":41,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":41,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":41,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":41,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":41,\"initialProps\":{}}"}
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  Running "react_native_meals" with {"rootTag":51,"initialProps":{}}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":51,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":51,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":51,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":51,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":51,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":51,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":51,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":51,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":51,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":51,\"initialProps\":{}}"}
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  Running "react_native_meals" with {"rootTag":61,"initialProps":{}}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  Running "react_native_meals" with {"rootTag":11,"initialProps":{}}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  Running "react_native_meals" with {"rootTag":21,"initialProps":{}}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  Running "react_native_meals" with {"rootTag":31,"initialProps":{}}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+ BUNDLE  [android, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (565/565), done.
+
+ MAP  [android, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  Running "react_native_meals" with {"rootTag":1}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+error: bundling failed: Error: Unable to resolve module `@babel/runtime/helpers/interopRequireDefault` from `App.js`: @babel/runtime/helpers/interopRequireDefault could not be found within the project.
+
+If you are sure the module exists, try these steps:
+ 1. Clear watchman watches: watchman watch-del-all
+ 2. Delete node_modules: rm -rf node_modules and run yarn install
+ 3. Reset Metro's cache: yarn start --reset-cache
+ 4. Remove the cache: rm -rf /tmp/metro-*
+    at ModuleResolver.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ModuleResolution.js:186:15)
+    at ResolutionRequest.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ResolutionRequest.js:52:18)
+    at DependencyGraph.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph.js:282:16)
+    at Object.resolve (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/lib/transformHelpers.js:267:42)
+    at dependencies.map.result (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:426:31)
+    at Array.map (<anonymous>)
+    at resolveDependencies (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:423:18)
+    at /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:275:33
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:87:24)
+error: bundling failed: Error: Unable to resolve module `@babel/runtime/helpers/interopRequireDefault` from `App.js`: @babel/runtime/helpers/interopRequireDefault could not be found within the project.
+
+If you are sure the module exists, try these steps:
+ 1. Clear watchman watches: watchman watch-del-all
+ 2. Delete node_modules: rm -rf node_modules and run yarn install
+ 3. Reset Metro's cache: yarn start --reset-cache
+ 4. Remove the cache: rm -rf /tmp/metro-*
+    at ModuleResolver.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ModuleResolution.js:186:15)
+    at ResolutionRequest.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ResolutionRequest.js:52:18)
+    at DependencyGraph.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph.js:282:16)
+    at Object.resolve (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/lib/transformHelpers.js:267:42)
+    at dependencies.map.result (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:426:31)
+    at Array.map (<anonymous>)
+    at resolveDependencies (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:423:18)
+    at /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:275:33
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:87:24)
+ BUNDLE  [android, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [android, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  Running "react_native_meals" with {"rootTag":1}
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":1,\"initialProps\":{}}"}
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  CategoryMealsScreen rendered
+ LOG  CategoryMealsScreen rendered
+ LOG  CategoryMealsScreen rendered
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  CategoryMealsScreen rendered
+ BUNDLE  [android, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  Running "react_native_meals" with {"rootTag":1}
+ LOG  CategoryMealsScreen rendered
+ LOG  CategoryMealsScreen rendered
+ BUNDLE  [android, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  Running "react_native_meals" with {"rootTag":1}
+ LOG  CategoryMealsScreen rendered
+ BUNDLE  [android, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ BUNDLE  [android, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ BUNDLE  [android, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  Running "react_native_meals" with {"rootTag":21}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/navigation/MealsNavigator.js: Unexpected token, expected "," (1:29)
+
+> 1 | import {createStackNavigator from 'react-navigation-stack';
+    |                              ^
+  2 | import {createAppContainer} from 'react-navigation';
+  3 | 
+  4 | import CategoriesScreen from '../screens/CategoriesScreen';
+error: bundling failed: Error: Unable to resolve module `react-native-screens/react-navigation-stack` from `src/navigation/MealsNavigator.js`: react-native-screens/react-navigation-stack could not be found within the project.
+
+If you are sure the module exists, try these steps:
+ 1. Clear watchman watches: watchman watch-del-all
+ 2. Delete node_modules: rm -rf node_modules and run yarn install
+ 3. Reset Metro's cache: yarn start --reset-cache
+ 4. Remove the cache: rm -rf /tmp/metro-*
+    at ModuleResolver.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ModuleResolution.js:186:15)
+    at ResolutionRequest.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ResolutionRequest.js:52:18)
+    at DependencyGraph.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph.js:282:16)
+    at Object.resolve (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/lib/transformHelpers.js:267:42)
+    at dependencies.map.result (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:426:31)
+    at Array.map (<anonymous>)
+    at resolveDependencies (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:423:18)
+    at /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:275:33
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:87:24)
+error: bundling failed: Error: Unable to resolve module `react-native-screens/react-navigation-stack` from `src/navigation/MealsNavigator.js`: react-native-screens/react-navigation-stack could not be found within the project.
+
+If you are sure the module exists, try these steps:
+ 1. Clear watchman watches: watchman watch-del-all
+ 2. Delete node_modules: rm -rf node_modules and run yarn install
+ 3. Reset Metro's cache: yarn start --reset-cache
+ 4. Remove the cache: rm -rf /tmp/metro-*
+    at ModuleResolver.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ModuleResolution.js:186:15)
+    at ResolutionRequest.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ResolutionRequest.js:52:18)
+    at DependencyGraph.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph.js:282:16)
+    at Object.resolve (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/lib/transformHelpers.js:267:42)
+    at dependencies.map.result (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:426:31)
+    at Array.map (<anonymous>)
+    at resolveDependencies (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:423:18)
+    at /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:275:33
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:87:24)
+error: bundling failed: Error: Unable to resolve module `react-native-screens/react-navigation-stack` from `src/navigation/MealsNavigator.js`: react-native-screens/react-navigation-stack could not be found within the project.
+
+If you are sure the module exists, try these steps:
+ 1. Clear watchman watches: watchman watch-del-all
+ 2. Delete node_modules: rm -rf node_modules and run yarn install
+ 3. Reset Metro's cache: yarn start --reset-cache
+ 4. Remove the cache: rm -rf /tmp/metro-*
+    at ModuleResolver.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ModuleResolution.js:186:15)
+    at ResolutionRequest.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ResolutionRequest.js:52:18)
+    at DependencyGraph.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph.js:282:16)
+    at Object.resolve (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/lib/transformHelpers.js:267:42)
+    at dependencies.map.result (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:426:31)
+    at Array.map (<anonymous>)
+    at resolveDependencies (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:423:18)
+    at /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:275:33
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:87:24)
+::ffff:127.0.0.1 - - [24/Oct/2019:12:08:46 +0000] "GET /index.bundle?platform=android&dev=true&minify=false HTTP/1.1" 500 - "-" "okhttp/3.12.1"
+error: bundling failed: Error: Unable to resolve module `react-native-screens/react-navigation-stack` from `src/navigation/MealsNavigator.js`: react-native-screens/react-navigation-stack could not be found within the project.
+
+If you are sure the module exists, try these steps:
+ 1. Clear watchman watches: watchman watch-del-all
+ 2. Delete node_modules: rm -rf node_modules and run yarn install
+ 3. Reset Metro's cache: yarn start --reset-cache
+ 4. Remove the cache: rm -rf /tmp/metro-*
+    at ModuleResolver.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ModuleResolution.js:186:15)
+    at ResolutionRequest.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ResolutionRequest.js:52:18)
+    at DependencyGraph.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph.js:282:16)
+    at Object.resolve (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/lib/transformHelpers.js:267:42)
+    at dependencies.map.result (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:426:31)
+    at Array.map (<anonymous>)
+    at resolveDependencies (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:423:18)
+    at /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:275:33
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:87:24)
+ BUNDLE  [android, dev] ./index.js ░░░░░░░░░░░░░░░░ 0.0% (0/1), failed.
+
+::ffff:127.0.0.1 - - [24/Oct/2019:12:09:10 +0000] "GET /index.bundle?platform=android&dev=true&minify=false HTTP/1.1" 500 - "-" "okhttp/3.12.1"
+error: bundling failed: Error: Unable to resolve module `react-native-screens/react-navigation-stack` from `src/navigation/MealsNavigator.js`: react-native-screens/react-navigation-stack could not be found within the project.
+
+If you are sure the module exists, try these steps:
+ 1. Clear watchman watches: watchman watch-del-all
+ 2. Delete node_modules: rm -rf node_modules and run yarn install
+ 3. Reset Metro's cache: yarn start --reset-cache
+ 4. Remove the cache: rm -rf /tmp/metro-*
+    at ModuleResolver.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ModuleResolution.js:186:15)
+    at ResolutionRequest.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ResolutionRequest.js:52:18)
+    at DependencyGraph.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph.js:282:16)
+    at Object.resolve (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/lib/transformHelpers.js:267:42)
+    at dependencies.map.result (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:426:31)
+    at Array.map (<anonymous>)
+    at resolveDependencies (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:423:18)
+    at /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:275:33
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:87:24)
+ BUNDLE  [android, dev] ./index.js ░░░░░░░░░░░░░░░░ 0.0% (0/1), failed.
+
+ BUNDLE  [android, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  Running "react_native_meals" with {"rootTag":1}
+error: bundling failed: Error: Unable to resolve module `react-native-screens/react-navigation-stack` from `src/navigation/MealsNavigator.js`: react-native-screens/react-navigation-stack could not be found within the project.
+
+If you are sure the module exists, try these steps:
+ 1. Clear watchman watches: watchman watch-del-all
+ 2. Delete node_modules: rm -rf node_modules and run yarn install
+ 3. Reset Metro's cache: yarn start --reset-cache
+ 4. Remove the cache: rm -rf /tmp/metro-*
+    at ModuleResolver.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ModuleResolution.js:186:15)
+    at ResolutionRequest.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ResolutionRequest.js:52:18)
+    at DependencyGraph.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph.js:282:16)
+    at Object.resolve (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/lib/transformHelpers.js:267:42)
+    at dependencies.map.result (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:426:31)
+    at Array.map (<anonymous>)
+    at resolveDependencies (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:423:18)
+    at /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:275:33
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:87:24)
+error: bundling failed: Error: Unable to resolve module `react-native-screens/react-navigation-stack` from `src/navigation/MealsNavigator.js`: react-native-screens/react-navigation-stack could not be found within the project.
+
+If you are sure the module exists, try these steps:
+ 1. Clear watchman watches: watchman watch-del-all
+ 2. Delete node_modules: rm -rf node_modules and run yarn install
+ 3. Reset Metro's cache: yarn start --reset-cache
+ 4. Remove the cache: rm -rf /tmp/metro-*
+    at ModuleResolver.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ModuleResolution.js:186:15)
+    at ResolutionRequest.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ResolutionRequest.js:52:18)
+    at DependencyGraph.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph.js:282:16)
+    at Object.resolve (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/lib/transformHelpers.js:267:42)
+    at dependencies.map.result (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:426:31)
+    at Array.map (<anonymous>)
+    at resolveDependencies (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:423:18)
+    at /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:275:33
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:87:24)
+::ffff:127.0.0.1 - - [24/Oct/2019:12:10:11 +0000] "GET /index.bundle?platform=android&dev=true&minify=false HTTP/1.1" 500 - "-" "okhttp/3.12.1"
+error: bundling failed: Error: Unable to resolve module `react-native-screens/react-navigation-stack` from `src/navigation/MealsNavigator.js`: react-native-screens/react-navigation-stack could not be found within the project.
+
+If you are sure the module exists, try these steps:
+ 1. Clear watchman watches: watchman watch-del-all
+ 2. Delete node_modules: rm -rf node_modules and run yarn install
+ 3. Reset Metro's cache: yarn start --reset-cache
+ 4. Remove the cache: rm -rf /tmp/metro-*
+    at ModuleResolver.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ModuleResolution.js:186:15)
+    at ResolutionRequest.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ResolutionRequest.js:52:18)
+    at DependencyGraph.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph.js:282:16)
+    at Object.resolve (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/lib/transformHelpers.js:267:42)
+    at dependencies.map.result (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:426:31)
+    at Array.map (<anonymous>)
+    at resolveDependencies (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:423:18)
+    at /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:275:33
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:87:24)
+ BUNDLE  [android, dev] ./index.js ░░░░░░░░░░░░░░░░ 0.0% (0/1), failed.
+
+::ffff:127.0.0.1 - - [24/Oct/2019:12:10:31 +0000] "GET /index.bundle?platform=android&dev=true&minify=false HTTP/1.1" 500 - "-" "okhttp/3.12.1"
+error: bundling failed: Error: Unable to resolve module `react-native-screens/react-navigation-stack` from `src/navigation/MealsNavigator.js`: react-native-screens/react-navigation-stack could not be found within the project.
+
+If you are sure the module exists, try these steps:
+ 1. Clear watchman watches: watchman watch-del-all
+ 2. Delete node_modules: rm -rf node_modules and run yarn install
+ 3. Reset Metro's cache: yarn start --reset-cache
+ 4. Remove the cache: rm -rf /tmp/metro-*
+    at ModuleResolver.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ModuleResolution.js:186:15)
+    at ResolutionRequest.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ResolutionRequest.js:52:18)
+    at DependencyGraph.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph.js:282:16)
+    at Object.resolve (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/lib/transformHelpers.js:267:42)
+    at dependencies.map.result (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:426:31)
+    at Array.map (<anonymous>)
+    at resolveDependencies (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:423:18)
+    at /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:275:33
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:87:24)
+ BUNDLE  [android, dev] ./index.js ░░░░░░░░░░░░░░░░ 0.0% (0/1), failed.
+
+ BUNDLE  [android, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  Running "react_native_meals" with {"rootTag":1}
+ BUNDLE  [android, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  Running "react_native_meals" with {"rootTag":1}
+ LOG  CategoryMealsScreen rendered
+ LOG  CategoryMealsScreen rendered

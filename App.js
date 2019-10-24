@@ -8,6 +8,8 @@
 
 import React from 'react';
 import MealsNavigator from './src/navigation/MealsNavigator';
+import {useScreens} from 'react-native-screens';
+useScreens();
 
 const App = () => <MealsNavigator />;
 
