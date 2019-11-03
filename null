@@ -5317,3 +5317,752 @@ error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Proje
  BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
 
  LOG  Running "react_native_meals" with {"rootTag":11,"initialProps":{}}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token (22:56)
+
+  20 |         affordability={itemData.item.affordability}
+  21 |         backgroundImage={itemData.item.imageUrl}
+> 22 |         onSelectMeal={() => props.navigation.navigate()}}
+     |                                                         ^
+  23 |       />
+  24 |     );
+  25 |   };
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token (24:8)
+
+  22 |         onSelectMeal={() => props.navigation.navigate('MealDetail', {
+  23 |           mealDetail: 
+> 24 |         })}
+     |         ^
+  25 |       />
+  26 |     );
+  27 |   };
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token (24:8)
+
+  22 |         onSelectMeal={() => props.navigation.navigate('MealDetail', {
+  23 |           mealDetail: itemData.item.
+> 24 |         })}
+     |         ^
+  25 |       />
+  26 |     );
+  27 |   };
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token (24:8)
+
+  22 |         onSelectMeal={() => props.navigation.navigate('MealDetail', {
+  23 |           mealDetail: 
+> 24 |         })}
+     |         ^
+  25 |       />
+  26 |     );
+  27 |   };
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (24:20)
+
+  22 |         onSelectMeal={() => props.navigation.navigate('MealDetail', {
+  23 |           mealDetail: {
+> 24 |             itemData.item
+     |                     ^
+  25 |           }
+  26 |         })}
+  27 |       />
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (24:20)
+
+  22 |         onSelectMeal={() => props.navigation.navigate('MealDetail', {
+  23 |           mealDetail: {
+> 24 |             itemData.item 
+     |                     ^
+  25 |             ingredients,
+  26 |     steps,
+  27 |     isGlutenFree,
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (24:20)
+
+  22 |         onSelectMeal={() => props.navigation.navigate('MealDetail', {
+  23 |           mealDetail: {
+> 24 |             itemData.item. 
+     |                     ^
+  25 |             ingredients,
+  26 |     steps,
+  27 |     isGlutenFree,
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (24:20)
+
+  22 |         onSelectMeal={() => props.navigation.navigate('MealDetail', {
+  23 |           mealDetail: {
+> 24 |             itemData.item.ingredients 
+     |                     ^
+  25 |             ingredients,
+  26 |     steps,
+  27 |     isGlutenFree,
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (24:20)
+
+  22 |         onSelectMeal={() => props.navigation.navigate('MealDetail', {
+  23 |           mealDetail: {
+> 24 |             itemData.item.ingredients
+     |                     ^
+  25 |             itemData.item.steps 
+  26 |             ingredients,
+  27 |     steps,
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (24:20)
+
+  22 |         onSelectMeal={() => props.navigation.navigate('MealDetail', {
+  23 |           mealDetail: {
+> 24 |             itemData.item.ingredients
+     |                     ^
+  25 |             itemData.item.steps
+  26 |             itemData.item.isGlutenFree 
+  27 |             ingredients,
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (24:20)
+
+  22 |         onSelectMeal={() => props.navigation.navigate('MealDetail', {
+  23 |           mealDetail: {
+> 24 |             itemData.item.ingredients
+     |                     ^
+  25 |             itemData.item.steps
+  26 |             itemData.item.isGlutenFree
+  27 |             itemData.item.is 
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (24:20)
+
+  22 |         onSelectMeal={() => props.navigation.navigate('MealDetail', {
+  23 |           mealDetail: {
+> 24 |             itemData.item.ingredients
+     |                     ^
+  25 |             itemData.item.steps
+  26 |             itemData.item.isGlutenFree
+  27 |             itemData.item.isLactoseFree 
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (24:20)
+
+  22 |         onSelectMeal={() => props.navigation.navigate('MealDetail', {
+  23 |           mealDetail: {
+> 24 |             itemData.item.ingredients
+     |                     ^
+  25 |             itemData.item.steps
+  26 |             itemData.item.isGlutenFree
+  27 |             itemData.item.isVegan 
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (24:20)
+
+  22 |         onSelectMeal={() => props.navigation.navigate('MealDetail', {
+  23 |           mealDetail: {
+> 24 |             itemData.item.ingredients
+     |                     ^
+  25 |             itemData.item.steps
+  26 |             itemData.item.isGlutenFree
+  27 |             itemData.item.isVegan
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (24:20)
+
+  22 |         onSelectMeal={() => props.navigation.navigate('MealDetail', {
+  23 |           mealDetail: {
+> 24 |             itemData.item.ingredients
+     |                     ^
+  25 |             itemData.item.steps
+  26 |             itemData.item.isGlutenFree
+  27 |             itemData.item.isVegan
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (24:20)
+
+  22 |         onSelectMeal={() => props.navigation.navigate('MealDetail', {
+  23 |           mealDetail: {
+> 24 |             itemData.item.ingredients
+     |                     ^
+  25 |             itemData.item.steps
+  26 |             itemData.item.isGlutenFree
+  27 |             itemData.item.isVegan
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (24:20)
+
+  22 |         onSelectMeal={() => props.navigation.navigate('MealDetail', {
+  23 |           mealDetail: {
+> 24 |             itemData.item.ingredients
+     |                     ^
+  25 |             itemData.item.steps
+  26 |             itemData.item.isGlutenFree
+  27 |             itemData.item.isVegan
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (24:20)
+
+  22 |         onSelectMeal={() => props.navigation.navigate('MealDetail', {
+  23 |           mealDetail: {
+> 24 |             itemData.item.ingredients
+     |                     ^
+  25 |             itemData.item.steps
+  26 |             itemData.item.isGlutenFree
+  27 |             itemData.item.isVegan
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (24:20)
+
+  22 |         onSelectMeal={() => props.navigation.navigate('MealDetail', {
+  23 |           mealDetail: {
+> 24 |             itemData.item.ingredients
+     |                     ^
+  25 |             itemData.item.steps
+  26 |             itemData.item.isGlutenFree
+  27 |             itemData.item.isVegan
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (24:20)
+
+  22 |         onSelectMeal={() => props.navigation.navigate('MealDetail', {
+  23 |           mealDetail: {
+> 24 |             itemData.item.ingredients,
+     |                     ^
+  25 |             itemData.item.steps
+  26 |             itemData.item.isGlutenFree
+  27 |             itemData.item.isVegan
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (24:20)
+
+  22 |         onSelectMeal={() => props.navigation.navigate('MealDetail', {
+  23 |           mealDetail: {
+> 24 |             itemData.item.ingredients,
+     |                     ^
+  25 |             itemData.item.steps,
+  26 |             itemData.item.isGlutenFree,
+  27 |             itemData.item.isVegan,
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (25:20)
+
+  23 |           mealDetail: {
+  24 |             ingerdients : itemData.item.ingredients,
+> 25 |             itemData.item.steps,
+     |                     ^
+  26 |             itemData.item.isGlutenFree,
+  27 |             itemData.item.isVegan,
+  28 |             itemData.item.isVegetarian,
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (25:20)
+
+  23 |           mealDetail: {
+  24 |             ingerdients: itemData.item.ingredients,
+> 25 |             itemData.item.steps,
+     |                     ^
+  26 |             itemData.item.isGlutenFree,
+  27 |             itemData.item.isVegan,
+  28 |             itemData.item.isVegetarian,
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (26:20)
+
+  24 |             ingerdients: itemData.item.ingredients,
+  25 |             steps: itemData.item.steps,
+> 26 |             itemData.item.isGlutenFree,
+     |                     ^
+  27 |             itemData.item.isVegan,
+  28 |             itemData.item.isVegetarian,
+  29 |             itemData.item.isLactoseFree ,
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (27:20)
+
+  25 |             steps: itemData.item.steps,
+  26 |             isGlutenFree: itemData.item.isGlutenFree,
+> 27 |             itemData.item.isVegan,
+     |                     ^
+  28 |             itemData.item.isVegetarian,
+  29 |             itemData.item.isLactoseFree ,
+  30 |           }
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (28:20)
+
+  26 |             isGlutenFree: itemData.item.isGlutenFree,
+  27 |             isVegan: itemData.item.isVegan,
+> 28 |             itemData.item.isVegetarian,
+     |                     ^
+  29 |             itemData.item.isLactoseFree ,
+  30 |           }
+  31 |         })}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (28:32)
+
+  26 |             isGlutenFree: itemData.item.isGlutenFree,
+  27 |             isVegan: itemData.item.isVegan,
+> 28 |             isVegetarianitemData.item.isVegetarian,
+     |                                 ^
+  29 |             itemData.item.isLactoseFree ,
+  30 |           }
+  31 |         })}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (29:20)
+
+  27 |             isVegan: itemData.item.isVegan,
+  28 |             isVegetarian: itemData.item.isVegetarian,
+> 29 |             itemData.item.isLactoseFree ,
+     |                     ^
+  30 |           }
+  31 |         })}
+  32 |       />
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token (31:14)
+
+  29 |               isVegetarian: itemData.item.isVegetarian,
+  30 |               isLactoseFree: itemData.item.isLactoseFree,
+> 31 |             },,
+     |               ^
+  32 |           })
+  33 |         }
+  34 |       />
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token (5:20)
+
+  3 | 
+  4 | const MealDetailScreen = props => {
+> 5 |   console.log(props.);
+    |                     ^
+  6 |   return (
+  7 |     <View style={styles.screen}>
+  8 |       <Text>The MealDetailScreen Screen!</Text>
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":11,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token (5:51)
+
+  3 | 
+  4 | const MealDetailScreen = props => {
+> 5 |   console.log(props.navigation.getParam(paramName).);
+    |                                                    ^
+  6 |   return (
+  7 |     <View style={styles.screen}>
+  8 |       <Text>The MealDetailScreen Screen!</Text>
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ INFO  Running application react_native_meals ({
+    initialProps =     {
+    };
+    rootTag = 21;
+})
+ LOG  Running "react_native_meals" with {"rootTag":21,"initialProps":{}}
+ LOG  {"ingerdients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined]}
+ MAP  [ios, dev] src/screens/CategoryMealsScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/CategoryMealsScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/CategoryMealsScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/CategoryMealsScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/CategoryMealsScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/CategoryMealsScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/CategoryMealsScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "{" (8:0)
+
+   6 | 
+   7 | 
+>  8 | const selectCategoryId = (categories, categoryId) => {
+     | ^
+   9 |   return categories.find(cat => cat.id === categoryId);
+  10 | };
+  11 | const getNavigationParams = (props, paramName) => {
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token (8:0)
+
+   6 | 
+   7 | 
+>  8 | const selectCategoryId = (categories, categoryId) => {
+     | ^
+   9 |   return categories.find(cat => cat.id === categoryId);
+  10 | };
+  11 | const getNavigationParams = (props, paramName) => {
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token (8:0)
+
+   6 | 
+   7 | 
+>  8 | const selectCategoryId = (categories, categoryId) => {
+     | ^
+   9 |   return categories.find(cat => cat.id === categoryId);
+  10 | };
+  11 | const getNavigationParams = (props, paramName) => {
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Identifier 'getNavigationParams' has already been declared (11:6)
+
+   9 |   return categories.find(cat => cat.id === categoryId);
+  10 | };
+> 11 | const getNavigationParams = (props, paramName) => {
+     |       ^
+  12 |   return props.navigation.getParam(paramName);
+  13 | };
+  14 | 
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Identifier 'getNavigationParams' has already been declared (11:6)
+
+   9 |   return categories.find(cat => cat.id === categoryId);
+  10 | };
+> 11 | const getNavigationParams = (props, paramName) => {
+     |       ^
+  12 |   return props.navigation.getParam(paramName);
+  13 | };
+  14 | 
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Identifier 'getNavigationParams' has already been declared (11:6)
+
+   9 |   return categories.find(cat => cat.id === categoryId);
+  10 | };
+> 11 | const getNavigationParams = (props, paramName) => {
+     |       ^
+  12 |   return props.navigation.getParam(paramName);
+  13 | };
+  14 | 
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":21,\"initialProps\":{}}"}
+ MAP  [ios, dev] src/screens/CategoryMealsScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/Utils/utils.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/CategoryMealsScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ INFO  Running application react_native_meals ({
+    initialProps =     {
+    };
+    rootTag = 31;
+})
+ LOG  Running "react_native_meals" with {"rootTag":31,"initialProps":{}}
+ LOG  {"ingerdients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined]}
+ MAP  [ios, dev] src/screens/CategoryMealsScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/CategoryMealsScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/CategoryMealsScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/CategoryMealsScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token, expected "{" (7:0)
+
+   5 | import 
+   6 | 
+>  7 | const MealDetailScreen = props => {
+     | ^
+   8 |   console.log(props.navigation.getParam('mealDetails'));
+   9 |   return (
+  10 |     <View style={styles.screen}>
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token (7:0)
+
+   5 | import {}
+   6 | 
+>  7 | const MealDetailScreen = props => {
+     | ^
+   8 |   console.log(props.navigation.getParam('mealDetails'));
+   9 |   return (
+  10 |     <View style={styles.screen}>
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token (7:0)
+
+   5 | import {getNavigationParams}
+   6 | 
+>  7 | const MealDetailScreen = props => {
+     | ^
+   8 |   console.log(props.navigation.getParam('mealDetails'));
+   9 |   return (
+  10 |     <View style={styles.screen}>
+error: bundling failed: Error: Unable to resolve module `../Utils/` from `src/screens/MealDetailScreen.js`: 
+
+None of these files exist:
+  * src/Utils(.native|.ios.js|.native.js|.js|.ios.json|.native.json|.json|.ios.ts|.native.ts|.ts|.ios.tsx|.native.tsx|.tsx)
+  * src/Utils/index(.native|.ios.js|.native.js|.js|.ios.json|.native.json|.json|.ios.ts|.native.ts|.ts|.ios.tsx|.native.tsx|.tsx)
+    at ModuleResolver.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ModuleResolution.js:163:15)
+    at ResolutionRequest.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ResolutionRequest.js:52:18)
+    at DependencyGraph.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph.js:282:16)
+    at Object.resolve (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/lib/transformHelpers.js:267:42)
+    at dependencies.map.result (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:426:31)
+    at Array.map (<anonymous>)
+    at resolveDependencies (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:423:18)
+    at /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:275:33
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:87:24)
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+error: bundling failed: Error: Unable to resolve module `../Utils/u` from `src/screens/MealDetailScreen.js`: 
+
+None of these files exist:
+  * src/Utils/u(.native|.ios.js|.native.js|.js|.ios.json|.native.json|.json|.ios.ts|.native.ts|.ts|.ios.tsx|.native.tsx|.tsx)
+  * src/Utils/u/index(.native|.ios.js|.native.js|.js|.ios.json|.native.json|.json|.ios.ts|.native.ts|.ts|.ios.tsx|.native.tsx|.tsx)
+    at ModuleResolver.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ModuleResolution.js:163:15)
+    at ResolutionRequest.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ResolutionRequest.js:52:18)
+    at DependencyGraph.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph.js:282:16)
+    at Object.resolve (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/lib/transformHelpers.js:267:42)
+    at dependencies.map.result (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:426:31)
+    at Array.map (<anonymous>)
+    at resolveDependencies (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:423:18)
+    at /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:275:33
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:87:24)
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":31,\"initialProps\":{}}"}
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ INFO  Running application react_native_meals ({
+    initialProps =     {
+    };
+    rootTag = 41;
+})
+ LOG  Running "react_native_meals" with {"rootTag":41,"initialProps":{}}
+ LOG  {"ingerdients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined]}
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":41,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token (9:2)
+
+   7 | const MealDetailScreen = props => {
+   8 |   console.log(getNavigationParams(props, 'mealDetails'));
+>  9 |   = getNavigationParams(props, 'mealDetails')
+     |   ^
+  10 |   return (
+  11 |     <View style={styles.screen}>
+  12 |       <Text>The MealDetailScreen Screen!</Text>
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":41,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token (9:2)
+
+   7 | const MealDetailScreen = props => {
+   8 |   console.log(getNavigationParams(props, 'mealDetails'));
+>  9 |   = getNavigationParams(props, 'mealDetails');
+     |   ^
+  10 |   return (
+  11 |     <View style={styles.screen}>
+  12 |       <Text>The MealDetailScreen Screen!</Text>
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":41,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token (9:2)
+
+   7 | const MealDetailScreen = props => {
+   8 |   console.log(getNavigationParams(props, 'mealDetails'));
+>  9 |   = getNavigationParams(props, 'mealDetails');
+     |   ^
+  10 |   return (
+  11 |     <View style={styles.screen}>
+  12 |       <Text>The MealDetailScreen Screen!</Text>
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":41,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token (9:2)
+
+   7 | const MealDetailScreen = props => {
+   8 |   console.log(getNavigationParams(props, 'mealDetails'));
+>  9 |   = getNavigationParams(props, 'mealDetails');
+     |   ^
+  10 |   return (
+  11 |     <View style={styles.screen}>
+  12 |       <Text>The MealDetailScreen Screen!</Text>
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":41,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token (9:8)
+
+   7 | const MealDetailScreen = props => {
+   8 |   console.log(getNavigationParams(props, 'mealDetails'));
+>  9 |   const = getNavigationParams(props, 'mealDetails');
+     |         ^
+  10 |   return (
+  11 |     <View style={styles.screen}>
+  12 |       <Text>The MealDetailScreen Screen!</Text>
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/CategoryMealsScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] node_modules/@babel/runtime/helpers/toArray.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":41,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token (9:22)
+
+   7 | const MealDetailScreen = props => {
+   8 |   console.log(getNavigationParams(props, 'mealDetails'));
+>  9 |   const {ingredients, ] = getNavigationParams(props, 'mealDetails');
+     |                       ^
+  10 |   return (
+  11 |     <View style={styles.screen}>
+  12 |       <Text>The MealDetailScreen Screen!</Text>
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  {"ingredients": ["1 Slice White Bread", "1 Slice Ham", "1 Slice Pineapple", "1-2 Slices of Cheese", "Butter", undefined], "isGlutenFree": false, "isLactoseFree": false, "isVegan": false, "isVegetarian": false, "steps": ["Butter one side of the white bread", "Layer ham, the pineapple and cheese on the white bread", "Bake the toast for round about 10 minutes in the oven at 200°C", undefined]}
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ INFO  Running application react_native_meals ({
+    initialProps =     {
+    };
+    rootTag = 51;
+})
+ LOG  Running "react_native_meals" with {"rootTag":51,"initialProps":{}}
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  {"ingredients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined]}
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  {"ingredients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined]}
+ LOG  {"ingredients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined]}
+ LOG  {"ingredients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined]}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":51,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (26:25)
+
+  24 |             mealDetails: {
+  25 |               title: 
+> 26 |               ingredients: itemData.item.ingredients,
+     |                          ^
+  27 |               steps: itemData.item.steps,
+  28 |               isGlutenFree: itemData.item.isGlutenFree,
+  29 |               isVegan: itemData.item.isVegan,
+ MAP  [ios, dev] src/screens/CategoryMealsScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":51,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token, expected "," (11:4)
+
+   9 |   const {
+  10 |     title
+> 11 |     ingredients,
+     |     ^
+  12 |     steps,
+  13 |     isGlutenFree,
+  14 |     isVegan,
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  {"ingredients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined], "title": "Spaghetti with Tomato Sauce"}
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  {"ingredients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined], "title": "Spaghetti with Tomato Sauce"}
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":51,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":51,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":51,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":51,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":51,\"initialProps\":{}}"}
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  {"ingredients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined], "title": "Spaghetti with Tomato Sauce"}
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  {"ingredients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined], "title": "Spaghetti with Tomato Sauce"}
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  {"ingredients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined], "title": "Spaghetti with Tomato Sauce"}
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  {"ingredients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined], "title": "Spaghetti with Tomato Sauce"}
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  {"ingredients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined], "title": "Spaghetti with Tomato Sauce"}
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  {"ingredients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined], "title": "Spaghetti with Tomato Sauce"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":51,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token (32:8)
+
+  30 | //handle dynamically the header title of the view
+  31 | MealDetailScreen.navigationOptions = navigationData => {
+> 32 |   const :{} = getNavigationParams(navigationData, 'mealDetails');
+     |         ^
+  33 |   return {
+  34 |     headerTitle: category.title,
+  35 |   };
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] node_modules/@babel/runtime/helpers/objectDestructuringEmpty.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  {"ingredients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined], "title": "Spaghetti with Tomato Sauce"}
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  {"ingredients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined], "title": "Spaghetti with Tomato Sauce"}
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  {"ingredients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined], "title": "Spaghetti with Tomato Sauce"}
+ LOG  {"ingredients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined], "title": "Spaghetti with Tomato Sauce"}
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ INFO  Running application react_native_meals ({
+    initialProps =     {
+    };
+    rootTag = 61;
+})
+ LOG  Running "react_native_meals" with {"rootTag":61,"initialProps":{}}
+ LOG  {"ingredients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined], "title": "Spaghetti with Tomato Sauce"}
+ LOG  {"ingredients": ["1 Slice White Bread", "1 Slice Ham", "1 Slice Pineapple", "1-2 Slices of Cheese", "Butter", undefined], "isGlutenFree": false, "isLactoseFree": false, "isVegan": false, "isVegetarian": false, "steps": ["Butter one side of the white bread", "Layer ham, the pineapple and cheese on the white bread", "Bake the toast for round about 10 minutes in the oven at 200°C", undefined], "title": "Toast Hawaii"}
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+

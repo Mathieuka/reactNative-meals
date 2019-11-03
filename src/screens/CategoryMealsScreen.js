@@ -3,11 +3,11 @@ import {View, Text, StyleSheet, FlatList} from 'react-native';
 import {CATEGORIES, MEALS} from '../data/dummy-data';
 import MealItem from '../components/MealItem';
 
+// Utils
+import {getNavigationParams} from '../Utils/utils';
+
 const selectCategoryId = (categories, categoryId) => {
   return categories.find(cat => cat.id === categoryId);
-};
-const getNavigationParams = (props, paramName) => {
-  return props.navigation.getParam(paramName);
 };
 
 const CategoryMealsScreen = props => {
@@ -19,7 +19,19 @@ const CategoryMealsScreen = props => {
         complexity={itemData.item.complexity}
         affordability={itemData.item.affordability}
         backgroundImage={itemData.item.imageUrl}
-        onSelectMeal={() => {}}
+        onSelectMeal={() =>
+          props.navigation.navigate('MealDetail', {
+            mealDetails: {
+              title: itemData.item.title,
+              ingredients: itemData.item.ingredients,
+              steps: itemData.item.steps,
+              isGlutenFree: itemData.item.isGlutenFree,
+              isVegan: itemData.item.isVegan,
+              isVegetarian: itemData.item.isVegetarian,
+              isLactoseFree: itemData.item.isLactoseFree,
+            },
+          })
+        }
       />
     );
   };
