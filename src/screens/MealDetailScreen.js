@@ -1,5 +1,6 @@
 import React from 'react';
-import {View, Text, StyleSheet, Button} from 'react-native';
+import {View, Text, StyleSheet, ImageBackground} from 'react-native';
+import MealItem from '../components/MealItem';
 
 // Utils
 import {getNavigationParams} from '../Utils/utils';
@@ -8,6 +9,10 @@ const MealDetailScreen = props => {
   console.log(getNavigationParams(props, 'mealDetails'));
   const {
     title,
+    backgroundImage,
+    duration,
+    complexity,
+    affordability,
     ingredients,
     steps,
     isGlutenFree,
@@ -16,7 +21,17 @@ const MealDetailScreen = props => {
     isLactoseFree,
   } = getNavigationParams(props, 'mealDetails');
 
-  return <View style={styles.screen} />;
+  return (
+    <View>
+      <MealItem
+        backgroundImage={backgroundImage}
+        title={title}
+        duration={duration}
+        complexity={complexity}
+        affordability={affordability}
+      />
+    </View>
+  );
 };
 
 const styles = StyleSheet.create({

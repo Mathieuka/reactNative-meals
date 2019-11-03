@@ -23,12 +23,16 @@ const CategoryMealsScreen = props => {
           props.navigation.navigate('MealDetail', {
             mealDetails: {
               title: itemData.item.title,
+              backgroundImage: itemData.item.imageUrl,
               ingredients: itemData.item.ingredients,
               steps: itemData.item.steps,
               isGlutenFree: itemData.item.isGlutenFree,
               isVegan: itemData.item.isVegan,
               isVegetarian: itemData.item.isVegetarian,
               isLactoseFree: itemData.item.isLactoseFree,
+              duration: itemData.item.duration,
+              complexity: itemData.item.complexity,
+              affordability: itemData.item.affordability,
             },
           })
         }

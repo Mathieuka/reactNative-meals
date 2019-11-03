@@ -6066,3 +6066,370 @@ error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Proje
 
  MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
 
+ LOG  {"ingredients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined], "title": "Spaghetti with Tomato Sauce"}
+ LOG  {"ingredients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined], "title": "Spaghetti with Tomato Sauce"}
+ MAP  [ios, dev] src/screens/CategoryMealsScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (27:14)
+
+  25 |               title: itemData.item.title,
+  26 |               backgroundImage
+> 27 |               ingredients: itemData.item.ingredients,
+     |               ^
+  28 |               steps: itemData.item.steps,
+  29 |               isGlutenFree: itemData.item.isGlutenFree,
+  30 |               isVegan: itemData.item.isVegan,
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (27:25)
+
+  25 |               title: itemData.item.title,
+  26 |               backgroundImage: 
+> 27 |               ingredients: itemData.item.ingredients,
+     |                          ^
+  28 |               steps: itemData.item.steps,
+  29 |               isGlutenFree: itemData.item.isGlutenFree,
+  30 |               isVegan: itemData.item.isVegan,
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (27:14)
+
+  25 |               title: itemData.item.title,
+  26 |               backgroundImage: itemData.item.imageUrl
+> 27 |               ingredients: itemData.item.ingredients,
+     |               ^
+  28 |               steps: itemData.item.steps,
+  29 |               isGlutenFree: itemData.item.isGlutenFree,
+  30 |               isVegan: itemData.item.isVegan,
+ MAP  [ios, dev] src/screens/CategoryMealsScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token, expected "}" (23:8)
+
+  21 | 
+  22 | const styles = StyleSheet.create({
+> 23 |   screen: {
+     |         ^
+  24 |     flex: 1,
+  25 |     justifyContent: 'center',
+  26 |     alignItems: 'center',
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token, expected "}" (23:8)
+
+  21 | 
+  22 | const styles = StyleSheet.create({
+> 23 |   screen: {
+     |         ^
+  24 |     flex: 1,
+  25 |     justifyContent: 'center',
+  26 |     alignItems: 'center',
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token, expected "{" (6:0)
+
+  4 | 
+  5 | // Utils
+> 6 | import {getNavigationParams} from '../Utils/utils';
+    | ^
+  7 | 
+  8 | const MealDetailScreen = props => {
+  9 |   console.log(getNavigationParams(props, 'mealDetails'));
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token (6:0)
+
+  4 | 
+  5 | // Utils
+> 6 | import {getNavigationParams} from '../Utils/utils';
+    | ^
+  7 | 
+  8 | const MealDetailScreen = props => {
+  9 |   console.log(getNavigationParams(props, 'mealDetails'));
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: Error: Unable to resolve module `../` from `src/screens/MealDetailScreen.js`: 
+
+None of these files exist:
+  * src(.native|.ios.js|.native.js|.js|.ios.json|.native.json|.json|.ios.ts|.native.ts|.ts|.ios.tsx|.native.tsx|.tsx)
+  * src/index(.native|.ios.js|.native.js|.js|.ios.json|.native.json|.json|.ios.ts|.native.ts|.ts|.ios.tsx|.native.tsx|.tsx)
+    at ModuleResolver.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ModuleResolution.js:163:15)
+    at ResolutionRequest.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph/ResolutionRequest.js:52:18)
+    at DependencyGraph.resolveDependency (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/node-haste/DependencyGraph.js:282:16)
+    at Object.resolve (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/lib/transformHelpers.js:267:42)
+    at dependencies.map.result (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:426:31)
+    at Array.map (<anonymous>)
+    at resolveDependencies (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:423:18)
+    at /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:275:33
+    at Generator.next (<anonymous>)
+    at asyncGeneratorStep (/Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/node_modules/metro/src/DeltaBundler/traverseDependencies.js:87:24)
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token (23:4)
+
+  21 |     <View style={styles.screen}>
+  22 |       <MealItem
+> 23 |     </View>
+     |     ^
+  24 |   ) ;
+  25 | };
+  26 | 
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: JSX attributes must only be assigned a non-empty expression (23:24)
+
+  21 |     <View style={styles.screen}>
+  22 |       <MealItem 
+> 23 |         backgroundImage={}
+     |                         ^
+  24 |       />
+  25 |     </View>
+  26 |   ) ;
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: JSX attributes must only be assigned a non-empty expression (24:24)
+
+  22 |     <View style={styles.screen}>
+  23 |       <MealItem 
+> 24 |         backgroundImage={}
+     |                         ^
+  25 |       />
+  26 |     </View>
+  27 |   ) ;
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token (23:30)
+
+  21 |   return (
+  22 |     <View style={styles.screen}>
+> 23 |       <MealItembackgroundImage={backgroundImage} />
+     |                               ^
+  24 |     </View>
+  25 |   );
+  26 | };
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token, expected "..." (23:56)
+
+  21 |   return (
+  22 |     <View style={styles.screen}>
+> 23 |       <MealItem backgroundImage={backgroundImage} title{} />
+     |                                                         ^
+  24 |     </View>
+  25 |   );
+  26 | };
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: JSX attributes must only be assigned a non-empty expression (23:56)
+
+  21 |   return (
+  22 |     <View style={styles.screen}>
+> 23 |       <MealItem backgroundImage={backgroundImage} title={} />
+     |                                                         ^
+  24 |     </View>
+  25 |   );
+  26 | };
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (33:32)
+
+  31 |               isVegetarian: itemData.item.isVegetarian,
+  32 |               isLactoseFree: itemData.item.isLactoseFree,
+> 33 |               duration={itemData.item.duration}
+     |                                 ^
+  34 |         complexity={itemData.item.complexity}
+  35 |         affordability={itemData.item.affordability}
+  36 |             },
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (33:32)
+
+  31 |               isVegetarian: itemData.item.isVegetarian,
+  32 |               isLactoseFree: itemData.item.isLactoseFree,
+> 33 |               duration={itemData.item.duration}
+     |                                 ^
+  34 |               complexity={itemData.item.complexity}
+  35 |               affordability={itemData.item.affordability}
+  36 |             },
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (33:33)
+
+  31 |               isVegetarian: itemData.item.isVegetarian,
+  32 |               isLactoseFree: itemData.item.isLactoseFree,
+> 33 |               duration: {itemData.item.duration}
+     |                                  ^
+  34 |               complexity={itemData.item.complexity}
+  35 |               affordability={itemData.item.affordability}
+  36 |             },
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (34:14)
+
+  32 |               isLactoseFree: itemData.item.isLactoseFree,
+  33 |               duration: itemData.item.duration}
+> 34 |               complexity={itemData.item.complexity}
+     |               ^
+  35 |               affordability={itemData.item.affordability}
+  36 |             },
+  37 |           })
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (34:34)
+
+  32 |               isLactoseFree: itemData.item.isLactoseFree,
+  33 |               duration: itemData.item.duration,
+> 34 |               complexity={itemData.item.complexity}
+     |                                   ^
+  35 |               affordability={itemData.item.affordability}
+  36 |             },
+  37 |           })
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (34:34)
+
+  32 |               isLactoseFree: itemData.item.isLactoseFree,
+  33 |               duration: itemData.item.duration,
+> 34 |               complexity={itemData.item.complexity,
+     |                                   ^
+  35 |               affordability={itemData.item.affordability}
+  36 |             },
+  37 |           })
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (35:37)
+
+  33 |               duration: itemData.item.duration,
+  34 |               complexity: itemData.item.complexity,
+> 35 |               affordability={itemData.item.affordability}
+     |                                      ^
+  36 |             },
+  37 |           })
+  38 |         }
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/CategoryMealsScreen.js: Unexpected token, expected "," (35:37)
+
+  33 |               duration: itemData.item.duration,
+  34 |               complexity: itemData.item.complexity,
+> 35 |               affordability={itemData.item.affordability,
+     |                                      ^
+  36 |             },
+  37 |           })
+  38 |         }
+ MAP  [ios, dev] src/screens/CategoryMealsScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token, expected "," (15:4)
+
+  13 |     duration,
+  14 |     complexit
+> 15 |     ingredients,
+     |     ^
+  16 |     steps,
+  17 |     isGlutenFree,
+  18 |     isVegan,
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token, expected "," (15:4)
+
+  13 |     duration,
+  14 |     complexity
+> 15 |     ingredients,
+     |     ^
+  16 |     steps,
+  17 |     isGlutenFree,
+  18 |     isVegan,
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token, expected "," (16:4)
+
+  14 |     complexity,
+  15 |     affordability
+> 16 |     ingredients,
+     |     ^
+  17 |     steps,
+  18 |     isGlutenFree,
+  19 |     isVegan,
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: Unexpected token (26:83)
+
+  24 |   return (
+  25 |     <View style={styles.screen}>
+> 26 |       <MealItem backgroundImage={backgroundImage} title={title} duration={duration}, complexity />
+     |                                                                                    ^
+  27 |     </View>
+  28 |   );
+  29 | };
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  {"affordability": "affordable", "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg/800px-Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg", "complexity": "simple", "duration": 20, "ingredients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined], "title": "Spaghetti with Tomato Sauce"}
+ LOG  {"affordability": "affordable", "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg/800px-Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg", "complexity": "simple", "duration": 20, "ingredients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined], "title": "Spaghetti with Tomato Sauce"}
+ LOG  BugReporting extraData: {"AppRegistry.runApplication1": "Running \"react_native_meals\" with {\"rootTag\":61,\"initialProps\":{}}"}
+error: bundling failed: SyntaxError: /Users/mathieukahlaoui/Bureau/Private/Projet/react_native_meals/src/screens/MealDetailScreen.js: JSX attributes must only be assigned a non-empty expression (25:16)
+
+  23 | 
+  24 |   return (
+> 25 |     <View style={}>
+     |                 ^
+  26 |       <MealItem
+  27 |         backgroundImage={backgroundImage}
+  28 |         title={title}
+ MAP  [ios, dev] src/screens/MealDetailScreen.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ LOG  {"affordability": "affordable", "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg/800px-Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg", "complexity": "simple", "duration": 20, "ingredients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined], "title": "Spaghetti with Tomato Sauce"}
+ LOG  {"affordability": "affordable", "backgroundImage": "https://cdn.pixabay.com/photo/2018/07/11/21/51/toast-3532016_1280.jpg", "complexity": "simple", "duration": 10, "ingredients": ["1 Slice White Bread", "1 Slice Ham", "1 Slice Pineapple", "1-2 Slices of Cheese", "Butter", undefined], "isGlutenFree": false, "isLactoseFree": false, "isVegan": false, "isVegetarian": false, "steps": ["Butter one side of the white bread", "Layer ham, the pineapple and cheese on the white bread", "Bake the toast for round about 10 minutes in the oven at 200°C", undefined], "title": "Toast Hawaii"}
+ LOG  {"affordability": "luxurious", "backgroundImage": "https://cdn.pixabay.com/photo/2016/10/25/13/29/smoked-salmon-salad-1768890_1280.jpg", "complexity": "simple", "duration": 15, "ingredients": ["Arugula", "Lamb's Lettuce", "Parsley", "Fennel", "200g Smoked Salmon", "Mustard", "Balsamic Vinegar", "Olive Oil", "Salt and Pepper", undefined], "isGlutenFree": true, "isLactoseFree": true, "isVegan": false, "isVegetarian": true, "steps": ["Wash and cut salad and herbs", "Dice the salmon", "Process mustard, vinegar and olive oil into a dessing", "Prepare the salad", "Add salmon cubes and dressing", undefined], "title": "Salad with Smoked Salmon"}
+ LOG  {"affordability": "luxurious", "backgroundImage": "https://cdn.pixabay.com/photo/2018/04/09/18/26/asparagus-3304997_1280.jpg", "complexity": "simple", "duration": 30, "ingredients": ["White and Green Asparagus", "30g Pine Nuts", "300g Cherry Tomatoes", "Salad", "Salt, Pepper and Olive Oil", undefined], "isGlutenFree": true, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Wash, peel and cut the asparagus", "Cook in salted water", "Salt and pepper the asparagus", "Roast the pine nuts", "Halve the tomatoes", "Mix with asparagus, salad and dressing", "Serve with Baguette", undefined], "title": "Asparagus Salad with Cherry Tomatoes"}
+ LOG  {"affordability": "affordable", "backgroundImage": "https://cdn.pixabay.com/photo/2018/07/11/21/51/toast-3532016_1280.jpg", "complexity": "simple", "duration": 10, "ingredients": ["1 Slice White Bread", "1 Slice Ham", "1 Slice Pineapple", "1-2 Slices of Cheese", "Butter", undefined], "isGlutenFree": false, "isLactoseFree": false, "isVegan": false, "isVegetarian": false, "steps": ["Butter one side of the white bread", "Layer ham, the pineapple and cheese on the white bread", "Bake the toast for round about 10 minutes in the oven at 200°C", undefined], "title": "Toast Hawaii"}
+ LOG  {"affordability": "affordable", "backgroundImage": "https://cdn.pixabay.com/photo/2018/07/11/21/51/toast-3532016_1280.jpg", "complexity": "simple", "duration": 10, "ingredients": ["1 Slice White Bread", "1 Slice Ham", "1 Slice Pineapple", "1-2 Slices of Cheese", "Butter", undefined], "isGlutenFree": false, "isLactoseFree": false, "isVegan": false, "isVegetarian": false, "steps": ["Butter one side of the white bread", "Layer ham, the pineapple and cheese on the white bread", "Bake the toast for round about 10 minutes in the oven at 200°C", undefined], "title": "Toast Hawaii"}
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ BUNDLE  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ MAP  [ios, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (1/1), done.
+
+ INFO  Running application react_native_meals ({
+    initialProps =     {
+    };
+    rootTag = 71;
+})
+ LOG  Running "react_native_meals" with {"rootTag":71,"initialProps":{}}
+ LOG  {"affordability": "affordable", "backgroundImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg/800px-Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg", "complexity": "simple", "duration": 20, "ingredients": ["4 Tomatoes", "1 Tablespoon of Olive Oil", "1 Onion", "250g Spaghetti", "Spices", "Cheese (optional)", undefined], "isGlutenFree": false, "isLactoseFree": true, "isVegan": true, "isVegetarian": true, "steps": ["Cut the tomatoes and the onion into small pieces.", "Boil some water - add salt to it once it boils.", "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.", "In the meantime, heaten up some olive oil and add the cut onion.", "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.", "The sauce will be done once the spaghetti are.", "Feel free to add some cheese on top of the finished dish.", undefined], "title": "Spaghetti with Tomato Sauce"}
