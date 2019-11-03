@@ -1,4 +1,6 @@
 import {createStackNavigator} from 'react-navigation-stack';
+//import createNativeStackNavigator from 'react-native-screens/createNativeStackNavigator';
+
 import {createAppContainer} from 'react-navigation';
 
 import CategoriesScreen from '../screens/CategoriesScreen';
@@ -11,9 +13,7 @@ import THEME from '../Style/styles';
 const AppNavigator = createStackNavigator(
   {
     Categories: CategoriesScreen,
-    CategoryMeals: {
-      screen: CategoryMealsScreen,
-    },
+    CategoryMeals: CategoryMealsScreen,
     MealDetail: MealDetailScreen,
   },
   {

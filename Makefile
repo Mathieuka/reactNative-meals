@@ -6,10 +6,12 @@ reinstall:
 
 android-dev: 
 	@if [ ! -e .server ]; then \
+	adb devices; \
 	npm start -- --reset-cache > .server $$&  \
 	touch .server;  echo ">>> Server Metro Started"; \
 	npm run android; \
 	else echo ">>> Server already in running on port 80811" ; \
+	adb devices; \
 	lsof -i tcp:8081; \
 	npm run android; fi
 

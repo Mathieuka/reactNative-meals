@@ -1,26 +1,42 @@
-import React, {useState, useEffect} from 'react';
-import {View, Text, StyleSheet, Button} from 'react-native';
-import {CATEGORIES} from '../data/dummy-data';
-import THEME from '../Style/styles';
+import React from 'react';
+import {View, Text, StyleSheet, FlatList} from 'react-native';
+import {CATEGORIES, MEALS} from '../data/dummy-data';
+import MealItem from '../components/MealItem';
 
 const selectCategoryId = (categories, categoryId) => {
   return categories.find(cat => cat.id === categoryId);
 };
-const getNavigationParams = (data, paramName) => {
-  return data.navigation.getParam(paramName);
+const getNavigationParams = (props, paramName) => {
+  return props.navigation.getParam(paramName);
 };
 
 const CategoryMealsScreen = props => {
+  const renderMealItem = itemData => {
+    return (
+      <MealItem
+        title={itemData.item.title}
+        duration={itemData.item.duration}
+        complexity={itemData.item.complexity}
+        affordability={itemData.item.affordability}
+        backgroundImage={itemData.item.imageUrl}
+        onSelectMeal={() => {}}
+      />
+    );
+  };
+
+  // get params navigation from CategoriesScreen
   const categoryId = getNavigationParams(props, 'categoryId');
-  const category = selectCategoryId(CATEGORIES, categoryId);
-  console.log('CategoryMealsScreen rendered');
+  const displayMeals = MEALS.filter(
+    meal => meal.categoryIds.indexOf(categoryId) >= 0,
+  );
+
   return (
     <View style={styles.screen}>
-      <Text>The CategoryMealsScreen Screen!</Text>
-      <Text>{category.title}</Text>
-      <Button
-        title="Go to MealDetail screen"
-        onPress={() => props.navigation.navigate({routeName: 'MealDetail'})}
+      <FlatList
+        data={displayMeals}
+        keyExtractor={(item, index) => item.id}
+        renderItem={renderMealItem}
+        style={styles.flatList}
       />
     </View>
   );
@@ -40,6 +56,9 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
+  },
+  flatList: {
+    width: '100%',
   },
 });
 
